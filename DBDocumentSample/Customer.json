@@ -1,0 +1,63 @@
+{
+  // ID ※
+  "_id": "XXXXXXX",
+  //会員コード ※
+  "customer_code": "CM001",
+  //会員名　※
+  "customer_name": "楠　雄司",
+  //会員メール　※
+  "customer_email": "juteng2005@gmail.com",
+  //パスワード　※
+  "customer_password": "XXXXXXXXXX",
+  //会員電話
+  "customer_tel": "08094961314",
+  //郵便番号
+  "customer_postcode": "3330853",
+  //住所
+  "customer_address": "川口芝園",
+  //会社名
+  "customer_company": "ギフルプライス株式会社",
+  //入会時間　※
+  "entry_date": "2016-12-25 12:03:03",
+  //退会フラグ　※
+  "withdrawal_flg": false,
+  //退会時間
+  "withdrawal_date": "2016-12-29 15:25:12",
+
+  "sites": [
+    {
+      //サイトコード ※
+      "site_code": "XXXXXXXXX",
+      //サイト名 ※
+      "site_name": "ちょび得",
+      //サイトURL ※
+      "site_url": "https://chobitoku.shop",
+      //サイト種別、サイト種別マスタコレクションを参照 ※
+      "site_type": "_id(XXXXXXXXX)",
+      //プラン ※
+      "order_plan": "_id(XXXXXXXXX)",
+      //プラン開始時間
+      "order_plan_start_date": "2016-01-05",
+      //サイト削除フラグ ※
+      "site_del_flg": false
+
+    },
+    {
+      //サイトコード ※
+      "site_code": "XXXXXXXXX",
+      //サイト名 ※
+      "site_name": "ギフル",
+      //サイトURL ※
+      "site_url": "https://gifuru.shop",
+      //サイト種別、サイト種別マスタコレクションを参照 ※
+      "site_type": "_id(XXXXXXXXX)",
+      //プラン ※
+      "order_plan": "_id(XXXXXXXXX)",
+      //プラン開始時間
+      "order_plan_start_date": "2016-01-05",
+      //サイト削除フラグ ※
+      "site_del_flg": false
+
+    }
+  ]
+}

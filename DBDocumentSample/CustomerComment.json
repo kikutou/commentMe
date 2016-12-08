@@ -1,0 +1,29 @@
+{
+  // ID ※
+  "_id": "XXXXXXX",
+  // Customer ID
+  "customer_id": "_id(XXXXXXX)",
+  //root comment id
+  "root_comment_id": "_id(XXXXXXX)",
+  //作成時間　※
+  "create_date": "2016-12-25 12:01:25",
+  //更新時間　※
+  "update_date": "2016-12-25 12:37:12",
+  //コメントツリー　※
+  "comment_tree": {
+    "_id(1000000001)":{
+      "_id(1000000002)": {
+        "_id(1000000007)": {
+          "_id(1000000010)": null
+        },
+        "_id(1000000012)": null,
+        "_id(1000000015)": {
+          "_id(1000000021)": null,
+          "_id(1000000022)": null
+        }
+      },
+      "_id(1000000003)": null,
+      "_id(1000000005)": null
+    }
+  }
+}
