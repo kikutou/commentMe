@@ -1,12 +1,40 @@
 {
   // ID ※
   "_id": "XXXXXXX",
+  //コメントID
+  //形式　"CM_"+大文字・数値20ケタ（ランダム生成）
+  "comment_id": "CM_0123456789ABCDEFGHIJ",
   // コメントグレード（1-100）
   "comment_grade": 75,
   //コメントタイトル
   "comment_title": "これがいいね。",
   //コメント内容
   "comment_content": "このカメラがとてもいいです。\nおすすめです。",
+
+  //親コメントID
+  "parent_comment_id": "CM_0123456789ABCDEFGHII",
+  //コメント表示URL
+  "comment_url": "http://chobitoku.shop/item/ECOBJECT009#comment",
+  //公開フラグ
+  "public_flg": true,
+  //like
+  "like": 3,
+  //like by
+  "like_by": ["USER0001", "USER0002", "USER0003"],
+  //dislike
+  "dislike": 2,
+  //dislike by
+  "dislike_by": ["USER0004","USER00005"],
+
+  //作成時間　※
+  "create_date": "2016-12-25 12:01:25",
+  //更新時間　※
+  "update_date": "2016-12-25 12:37:12",
+
+  //回覧回数
+  "comment_reviewed_times": 50,
+
+
 
   //コメント作成者ID
   "comment_auther_id": "EC0005",
@@ -45,25 +73,6 @@
   "images": [
     "342342342342342swlerwjtsldgjslgjsldgjsldgjsldgjs",
     "342342342342342swlerwjtsldgjslgjsldgjsldgjsldgj4456"
-  ],
-
-  //コメント表示URL
-  "comment_url": "http://chobitoku.shop/item/ECOBJECT009#comment",
-  //公開フラグ
-  "public_flg": true,
-  //like
-  "like": 5,
-  //dislike
-  "dislike": 8,
-  //作成時間　※
-  "create_date": "2016-12-25 12:01:25",
-  //更新時間　※
-  "update_date": "2016-12-25 12:37:12",
-
-  //回覧回数
-  "comment_reviewed_times": 50,
-
-  //ルートコメント
-  "root_comment_id": "_id(XXXXXXXX)"
+  ]
 
 }
