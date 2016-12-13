@@ -5,7 +5,7 @@ var express = require('express');
 var router = express.Router();
 
 //API
-const api_new = "/new";
+const api_new = "/add_comment";
 const api_edit = "/edit";
 const api_delete = "/delete";
 
@@ -18,18 +18,28 @@ router.get('/', function(req, res, next) {
     // res.render('index', { title: 'Express' });
 });
 
-
 /**
- * New one comment
- */
-// validate the data
-router.post(api_new, function (req, res, next) {
-
-    var data = req.body;
-
-
-
+ * Add one comment
+*/
+router.get('/add_comment', function(req, res, next) {
+    var result = checkName(res.data.name);
+    if(!result){
+        return {response_code:1};
+    }
+    
+    next();
+    // res.render('index', { title: 'Express' });
 });
 
+
+router.get('/add_comment', function(req, res, next) {
+    var result = checkName(res.data.name);
+    if(!result){
+        return {response_code:1};
+    }
+
+    next();
+    // res.render('index', { title: 'Express' });
+});
 
 module.exports = router;

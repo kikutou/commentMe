@@ -1,0 +1,95 @@
+{
+  /**
+  * 基本情報部
+  **/
+  //会員コード
+  //※必須
+  //形式大文字・数値（10ケタ）
+  "customer_code": "123DB678",
+  //サイトコード
+  //※必須
+  //形式　大文字・数値(５ケタ)
+  "site_code": "AS4AS",
+
+  /**
+  *コメント情報部
+  **/
+  //コメント内容
+  //※必須
+  //形式　String　1000
+  "comment_content": "このカメラがいいですね。\nまた購入します。",
+
+  //コメントグレード
+  //形式　整数0-100
+  "comment_grade": 75,
+  //コメントタイトル
+  //形式　String　100
+  "comment_title": "このカメラがいいね。",
+
+  //親コメントID
+  //形式 大文字・数値（20ケタ）
+  "parent_comment_id": "0123456789ABCDEFGHIJ",
+  //コメント表示URL
+  //形式　URL　1000
+  "comment_url": "http://chobitoku.shop/item/ECOBJECT009#comment",
+  //公開フラグ
+  //形式　Boolean
+  "public_flg": true,
+
+  /**
+  *コメント作成者情報部
+  **/
+  //コメント作成者ID
+  //形式　String　100
+  "comment_auther_id": "EC00005",
+  //コメント作成者名前
+  //形式　String　1000
+  "comment_auther_name": "クスノキ",
+  //コメント作成者説明
+  //形式　String 1000
+  "comment_auther_introduce": "イケメンです。",
+  //作成者詳細情報
+  //該当会員のサイト情報に設定があれば、この部分を設定することが可能です。
+  "comment_auther_info": {
+    //会員サイトの設定情報のサブセット
+    //例：会員サイトに　"name","age","email","tel","birthday","postcode","address","company"が設定された場合
+    //この中の任意のプロパティを設定することができます。
+    "name": "楠　雄二",
+    "age": 32
+  },
+
+  /**
+  *コメント対象情報部
+  **/
+  //コメント対象ID
+  //形式　String　100
+  "comment_object_id": "OBJ0000010",
+  //コメント対象名
+  //形式　String　1000
+  "comment_object_name": "ソニーカメラ",
+  //コメント対象説明
+  //形式　String　1000
+  "comment_object_introduce": "これはソニー最新のカメラです\nぜひお試してください。",
+  //コメント対象詳細情報
+  //該当会員のサイト情報に設定があれば、この部分を設定することが可能です。
+  "comment_object_info": {
+    //会員サイトの設定情報のサブセット
+    //例：会員サイトに"color","easy_of_use","image_quality","battery_life"が設定された場合
+    //この中の任意のプロパティを設定することができます。
+    "color": "red",
+    "easy_of_use": 25
+  },
+
+  /**
+  *画像情報部
+  **/
+  //写真
+  //形式　最大10個の写真をアップロード可能です。
+  //JPG,JPEG,PNG,GIF形式のファイルのみ、
+  //ファイルサイズは10Mまで
+  "images": [
+    "ファイル1",
+    "ファイル2"
+  ]
+
+}

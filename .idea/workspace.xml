@@ -22,17 +22,37 @@
     <favorites_list name="myApp" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="307">
               <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+=======
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="site_type.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db_document_sample/site_type.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="consts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/consts.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,10 +61,19 @@
               <folding>
                 <element signature="n#!!doc;n#define#0" expanded="false" />
               </folding>
+=======
+      <file leaf-file-name="comment.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db_document_sample/comment.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+              <folding />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="apis.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/apis.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,12 +82,55 @@
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
+=======
+      <file leaf-file-name="response_code.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_json_sample/response_code.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Comment.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DBDocumentSample/Comment.json">
+=======
+      <file leaf-file-name="apis.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/apis.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db_document_sample/customer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plan.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db_document_sample/plan.json">
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="604">
               <caret line="66" column="6" lean-forward="false" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
@@ -67,21 +139,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerComment.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DBDocumentSample/CustomerComment.json">
+      <file leaf-file-name="customer_comment.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db_document_sample/customer_comment.json">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="504">
               <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+=======
+            <state relative-caret-position="150">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="684">
               <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+=======
+      <file leaf-file-name="add_comment_request.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api_json_sample/add_comment_request.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
               <folding />
             </state>
           </provider>
@@ -116,6 +201,7 @@
         <option value="$PROJECT_DIR$/DBDocumentSample/Plan.json" />
         <option value="$PROJECT_DIR$/DBDocumentSample/CustomerComments.json" />
         <option value="$PROJECT_DIR$/DBDocumentSample/CustomerComment.json" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/DBDocumentSample/Customer.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/DBDocumentSample/Comment.json" />
@@ -126,6 +212,17 @@
         <option value="$PROJECT_DIR$/consts.js" />
         <option value="$PROJECT_DIR$/routes/apis.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+        <option value="$PROJECT_DIR$/DBDocumentSample/Comment.json" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/DBDocumentSample/SiteType.json" />
+        <option value="$PROJECT_DIR$/DBDocumentSample/Customer.json" />
+        <option value="$PROJECT_DIR$/db_document_sample/Customer.json" />
+        <option value="$PROJECT_DIR$/db_document_sample/Comment.json" />
+        <option value="$PROJECT_DIR$/api_json_sample/add_comment_request.json" />
+        <option value="$PROJECT_DIR$/api_json_sample/response_code.json" />
+        <option value="$PROJECT_DIR$/routes/apis.js" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
       </list>
     </option>
   </component>
@@ -210,7 +307,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DBDocumentSample" />
+              <option name="myItemId" value="api_json_sample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -247,6 +344,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api_json_sample" />
       <recent name="$PROJECT_DIR$/DBDocumentSample" />
       <recent name="$PROJECT_DIR$/routes" />
     </key>
@@ -326,6 +424,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8ad7d010-4c52-4a1d-aec0-166364c2019d" name="Default" comment="" />
@@ -333,19 +434,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481173274024</updated>
+<<<<<<< HEAD
       <workItem from="1481173275162" duration="13706000" />
       <workItem from="1481192110222" duration="1444000" />
       <workItem from="1481524002561" duration="486000" />
       <workItem from="1481594620980" duration="5030000" />
       <workItem from="1481599812548" duration="3247000" />
+=======
+      <workItem from="1481173275162" duration="23847000" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="23913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1505" y="24" width="1535" height="876" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="23847000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16872965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -366,8 +478,18 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+=======
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -616,6 +738,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/testStatic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -644,8 +774,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/testStatic.html">
+    <entry file="file://$PROJECT_DIR$/db_document_sample/customer_comment.json">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="162">
           <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
@@ -655,10 +786,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-486">
           <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+=======
+        <state relative-caret-position="150">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/DBDocumentSample/Customer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -670,26 +806,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/db_document_sample/plan.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/db_document_sample/customer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+=======
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/node_modules/express/lib/express.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -722,12 +879,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+=======
+    <entry file="file://$PROJECT_DIR$/db_document_sample/site_type.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_json_sample/response_code.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_document_sample/comment.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/apis.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="486">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
@@ -740,10 +920,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="604">
           <caret line="66" column="6" lean-forward="false" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+=======
+        <state relative-caret-position="525">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/DBDocumentSample/CustomerComment.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -756,6 +941,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/api_json_sample/add_comment_request.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+>>>>>>> 7e25653a7d7e379a394dd81a8baea02918619b44
           <folding />
         </state>
       </provider>
